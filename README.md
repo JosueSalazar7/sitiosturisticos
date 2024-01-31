@@ -4,7 +4,7 @@
   * Josué Salazar
 
 # APK Paso 2
-  * Enlace de la caprte donde se encuentra la APK
+  * Enlace de la carpeta donde se encuentra la APK
   * https://epnecuador-my.sharepoint.com/:f:/g/personal/josue_salazar_epn_edu_ec/Eqh_k8cP-lpCkAow9J7f4NQBBNKkBk0jgLFafZYYOhiZUg?e=UWYake
 
 # Capturas del paso 1
