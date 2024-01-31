@@ -3,11 +3,11 @@
   * Marlon Lalangui
   * Josué Salazar
 
-#APK Paso 2
+# APK Paso 2
   * Enlace de la caprte donde se encuentra la APK
   * https://epnecuador-my.sharepoint.com/:f:/g/personal/josue_salazar_epn_edu_ec/Eqh_k8cP-lpCkAow9J7f4NQBBNKkBk0jgLFafZYYOhiZUg?e=UWYake
 
-#Capturas del paso 1
+# Capturas del paso 1
 
 
 ![Screenshot_20240130-224604](https://github.com/JosueSalazar7/sitiosturisticos/assets/117753844/9243a74d-90c2-441b-be28-5dc0f450ba02)
